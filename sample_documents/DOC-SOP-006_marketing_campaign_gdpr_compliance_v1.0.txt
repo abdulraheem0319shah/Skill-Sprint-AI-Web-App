@@ -1,0 +1,9 @@
+Document ID: DOC-SOP-006
+Title: Marketing Digital Campaigns & GDPR Opt-In Governance SOP
+Category: SOP
+Version: 1.0
+Effective Date: 2026-01-15
+Section: Section 1 - Email Marketing & Consent
+
+Section 1 - Explicit Double Opt-In
+All marketing email distributions must utilize double opt-in verification. Every outbound campaign must include a one-click unsubscribe mechanism that processes within 24 hours.

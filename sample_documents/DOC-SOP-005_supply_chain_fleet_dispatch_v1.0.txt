@@ -1,0 +1,9 @@
+Document ID: DOC-SOP-005
+Title: Fleet Dispatch, Logistics Safety & Inventory SOP
+Category: SOP
+Version: 1.0
+Effective Date: 2026-01-15
+Section: Section 1 - Fleet Pre-Trip Inspection & PPE
+
+Section 1 - Dispatch Safety Checklist
+Operations coordinators must enforce mandatory PPE (steel-toe boots and high-visibility vests) across all warehouse dispatch zones. Pre-trip vehicle inspection logs must be digitally signed prior to departure.

@@ -1,0 +1,12 @@
+Document ID: DOC-POL-004
+Title: Remote Work & BYOD Security Policy (Active Standard)
+Category: Policy
+Version: 2.0
+Effective Date: 2026-01-01
+Section: Section 1 - Remote Infrastructure & Stipends
+
+Section 1 - Home Office Stipend & Connectivity
+Eligible remote and hybrid employees receive a verified $600 one-time home office setup stipend and a monthly $50 broadband allowance.
+
+Section 2 - BYOD Security Standards
+Personal devices connecting to corporate networks must have endpoint management installed, full-disk encryption enabled, and always connect via the corporate WireGuard VPN tunnel.

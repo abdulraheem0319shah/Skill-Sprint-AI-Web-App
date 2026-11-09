@@ -1,0 +1,12 @@
+Document ID: DOC-POL-003
+Title: Customer Data Privacy & Compliance Policy
+Category: Policy
+Version: 1.0
+Effective Date: 2024-03-01
+Section: Section 1 - PII Handling
+
+Section 1 - Data Storage
+Customer personal identifiable information (PII) must be stored in secure databases.
+
+Section 2 - Breach Notification
+Suspected data exposure must be reviewed by the department head within 14 business days.

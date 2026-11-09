@@ -1,0 +1,15 @@
+Document ID: DOC-POL-002
+Title: Information Security & Zero-Trust Cybersecurity Policy (Active Standard)
+Category: Policy
+Version: 2.0
+Effective Date: 2026-01-15
+Section: Section 1 - Zero-Trust & Access Governance
+
+Section 1 - Mandatory Multi-Factor Authentication (MFA)
+Multi-Factor Authentication (MFA) via approved hardware tokens or authenticator apps is strictly mandatory for 100% of corporate accounts, workstations, cloud consoles, and VPN tunnels. No exceptions are permitted.
+
+Section 2 - Credential Security & Secret Management
+Employees and engineers must never store, hardcode, or commit plain-text passwords, API keys, private tokens, or SSH keys into git repositories or unencrypted documents. All secrets must reside in the central Enterprise Vault.
+
+Section 3 - Phishing & Cybersecurity Incident Response
+Employees must report suspicious emails or phishing attempts within 15 minutes to the Security Operations Center (soc@apexglobal.com).

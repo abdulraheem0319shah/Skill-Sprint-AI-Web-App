@@ -1,0 +1,9 @@
+Document ID: DOC-FAQ-002
+Title: IT Support & Workstation Access FAQ
+Category: FAQ
+Version: 1.0
+Effective Date: 2026-01-01
+Section: Section 1 - VPN & Credential FAQs
+
+Question: How do I configure my MFA authenticator?
+Answer: Scan the QR code presented on initial sign-on using Google Authenticator or Microsoft Authenticator.

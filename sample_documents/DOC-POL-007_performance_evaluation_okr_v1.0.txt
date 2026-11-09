@@ -1,0 +1,12 @@
+Document ID: DOC-POL-007
+Title: Performance Management, OKR Framework & Onboarding Milestones
+Category: Policy
+Version: 1.0
+Effective Date: 2026-01-01
+Section: Section 1 - 30/60/90 Day Milestones
+
+Section 1 - Onboarding Review Milestones
+Managers and employees must conduct formal 1-on-1 milestone reviews at Day 30, Day 60, and Day 90 to assess objective alignment, skill mastery, and cultural integration.
+
+Section 2 - Quarterly Objective Setting
+Quarterly OKRs (Objectives and Key Results) must be finalized within the first 14 days of each fiscal quarter.

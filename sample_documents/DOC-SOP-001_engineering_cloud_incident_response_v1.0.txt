@@ -1,0 +1,12 @@
+Document ID: DOC-SOP-001
+Title: Engineering Cloud Incident Response & On-Call Triage Runbook
+Category: SOP
+Version: 1.0
+Effective Date: 2026-01-15
+Section: Section 1 - Production Incident Triage
+
+Section 1 - Severity 1 Incident Triage
+For P1/P2 production outages, the on-call engineer must acknowledge alerts within 5 minutes, open a dedicated incident war room, and notify stakeholders every 20 minutes until resolution.
+
+Section 2 - Post-Mortem & Blameless Reviews
+A blameless post-mortem report must be published within 48 hours of any production degradation affecting customer SLAs.

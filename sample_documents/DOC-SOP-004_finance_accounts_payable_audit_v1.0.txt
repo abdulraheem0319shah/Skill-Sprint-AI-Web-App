@@ -1,0 +1,9 @@
+Document ID: DOC-SOP-004
+Title: Finance Accounts Payable, Invoice Verification & Audit SOP
+Category: SOP
+Version: 1.0
+Effective Date: 2026-01-15
+Section: Section 1 - 3-Way Invoice Matching
+
+Section 1 - Mandatory 3-Way Matching
+Every vendor invoice must be verified against Purchase Orders (PO) and Receiving Inspection Slips prior to disbursement. Discrepancies exceeding $50 must be flagged for manual audit.

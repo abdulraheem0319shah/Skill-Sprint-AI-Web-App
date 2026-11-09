@@ -1,0 +1,9 @@
+Document ID: DOC-SOP-003
+Title: Enterprise B2B Sales Execution & Pricing Governance SOP
+Category: SOP
+Version: 1.0
+Effective Date: 2026-01-15
+Section: Section 1 - CRM Pipeline & Discounting Approvals
+
+Section 1 - Discounting Authority
+Sales Executives may offer up to 10% standard discounts. Discounts between 11%-25% require VP Sales approval. Any discount above 25% requires CFO approval.

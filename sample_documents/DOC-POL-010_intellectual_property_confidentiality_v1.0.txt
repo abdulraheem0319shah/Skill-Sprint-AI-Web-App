@@ -1,0 +1,9 @@
+Document ID: DOC-POL-010
+Title: Intellectual Property, Non-Disclosure & Proprietary Assets Policy
+Category: Policy
+Version: 1.0
+Effective Date: 2026-01-01
+Section: Section 1 - IP Ownership & Non-Disclosure
+
+Section 1 - Corporate IP Assignment
+All software, designs, data architectures, documents, and inventions created by employees during employment belong exclusively to Apex Global. Non-disclosure obligations persist perpetually post-employment.

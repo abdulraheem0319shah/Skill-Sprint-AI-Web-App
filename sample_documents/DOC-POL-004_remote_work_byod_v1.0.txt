@@ -1,0 +1,9 @@
+Document ID: DOC-POL-004
+Title: Remote Work & BYOD Guidelines
+Category: Policy
+Version: 1.0
+Effective Date: 2024-05-01
+Section: Section 1 - Home Office
+
+Section 1 - Equipment Allowance
+Remote employees receive a $300 home office setup allowance upon joining.

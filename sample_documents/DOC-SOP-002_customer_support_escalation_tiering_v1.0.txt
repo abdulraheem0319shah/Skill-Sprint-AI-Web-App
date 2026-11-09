@@ -1,0 +1,12 @@
+Document ID: DOC-SOP-002
+Title: Customer Support Escalation Tiering & SLA Resolution SOP
+Category: SOP
+Version: 1.0
+Effective Date: 2026-01-15
+Section: Section 1 - Ticket Triage & SLA Matrix
+
+Section 1 - SLA Turnarounds
+Tier 1 Support must respond to urgent customer tickets within 15 minutes. Tickets unresolved after 60 minutes must be escalated to Tier 2 Technical Specialists.
+
+Section 2 - Refund Escalation Limits
+Support representatives may issue refunds up to $100 with Team Lead sign-off; refunds over $100 require Support Director authorization.

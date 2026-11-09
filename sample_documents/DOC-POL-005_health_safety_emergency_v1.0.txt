@@ -1,0 +1,9 @@
+Document ID: DOC-POL-005
+Title: Health, Safety & Workplace Environment Policy
+Category: Policy
+Version: 1.0
+Effective Date: 2024-01-01
+Section: Section 1 - Office Safety
+
+Section 1 - General Safety
+Employees should be aware of office exits and first aid kit locations.

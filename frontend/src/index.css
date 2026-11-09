@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-white text-slate-900 font-sans antialiased min-h-screen selection:bg-brand-500 selection:text-white;
+  }
+}
+
+/* Custom scrollbar matching the theme */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  @apply bg-slate-100/80;
+}
+::-webkit-scrollbar-thumb {
+  @apply bg-brand-400/40 rounded;
+}
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-brand-500/70;
+}
+
+.glass-panel {
+  @apply bg-white/95 backdrop-blur-md border border-slate-200 rounded-xl shadow-lg text-slate-800;
+}

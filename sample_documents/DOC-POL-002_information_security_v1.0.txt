@@ -1,0 +1,12 @@
+Document ID: DOC-POL-002
+Title: Information Security & Data Protection Policy
+Category: Policy
+Version: 1.0
+Effective Date: 2024-06-01
+Section: Section 1 - Password Hygiene & Workstation Access
+
+Section 1 - Password Standards
+Employees must maintain passwords with at least 8 characters. Passwords should be changed every 180 days.
+
+Section 2 - Access Credentials
+Multi-Factor Authentication (MFA) is recommended for remote logins and privileged IT accounts.

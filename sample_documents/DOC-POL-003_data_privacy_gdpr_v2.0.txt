@@ -1,0 +1,15 @@
+Document ID: DOC-POL-003
+Title: Enterprise Data Privacy & GDPR Compliance Policy (Active Standard)
+Category: Policy
+Version: 2.0
+Effective Date: 2026-02-01
+Section: Section 1 - GDPR Principles & PII Anonymization
+
+Section 1 - Customer Data Protection & Minimization
+All employee and customer Personally Identifiable Information (PII) must be encrypted at rest (AES-256) and in transit (TLS 1.3). Data collection must strictly follow the principle of data minimization.
+
+Section 2 - Mandatory 72-Hour Breach Escalation
+Any confirmed or suspected personal data breach must be reported to the Data Protection Officer (DPO) and relevant regulatory authorities within 72 hours of identification.
+
+Section 3 - Data Subject Rights
+Customer requests for data access, correction, or deletion (Right to be Forgotten) must be fulfilled within 30 calendar days.
